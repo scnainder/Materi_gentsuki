@@ -2,7 +2,7 @@
 
 > Format: **No. — pernyataan (ringkas, Bahasa Indonesia) → jawaban (○ benar / × salah) — alasan**.
 > Soal 1–46 = 1 poin, soal 47–48 = soal ilustrasi 2 poin (ketiga sub-soal harus benar). Lulus ≥45/50, waktu 30 menit.
-> Pernyataan diparafrasekan dari buku sumber; gunakan untuk latihan # BANK SOAL — 8 tryout (format: No. soal (ringkas, ID) → jawaban — alasan) bahan konten, jangan disebar sebagai salinan buku.
+> Pernyataan diparafrasekan dari buku sumber; gunakan sebagai bahan latihan dan bahan konten, jangan disebar sebagai salinan buku.
 
 ## Tryout 1
 1. Mematuhi aturan lalu lintas adalah dasar sebagai anggota masyarakat → ○
